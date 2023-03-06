@@ -32,13 +32,16 @@ Favorite Places
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+* **State management**: Provider.
+* **Backend connection**: Google Map Api, sqflite.
 
 ## Key Features
 
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
+• Take photos with camera
+• Add Location
+• Name the Location
+• Save it to your phone 
+• Get a collection of your favorite places 
 
 ## Built With
 
