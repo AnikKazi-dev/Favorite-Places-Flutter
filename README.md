@@ -37,11 +37,11 @@ Favorite Places
 
 ## Key Features
 
-• Take photos with camera
-• Add Location
-• Name the Location
-• Save it to your phone 
-• Get a collection of your favorite places 
+* Take photos with camera
+* Add Location
+* Name the Location
+* Save it to your phone 
+* Get a collection of your favorite places 
 
 ## Built With
 
